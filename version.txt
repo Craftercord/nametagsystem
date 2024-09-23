@@ -1,2 +1,2 @@
-version=1
-maintenance=true
+version=2
+maintenance=false
