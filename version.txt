@@ -1,4 +1,4 @@
-version=1.0.1
+version=1.0.0
 maintenance=false
 blacklistedGroups=6775491
 blacklistedServers=00000001
